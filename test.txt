@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CA76-2559
+
+ Directory of C:\Users\devendra\Desktop\MyProject
+
+21/01/2021  03:24 PM    <DIR>          .
+21/01/2021  03:24 PM    <DIR>          ..
+21/01/2021  03:24 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  65,443,307,520 bytes free
